@@ -2,7 +2,7 @@
 This is a web scraper to extract data from a website, with the help of **Llama3** model. To run it locally, please install the **Ollama** and pull the model.
 
 The following libraries are necessary: 
-* Selenium
+* Selenium (with the chrome webdriver)
 * Beautifulsoup
 * Langchain
 * Langchain_ollama
